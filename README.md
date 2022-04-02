@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ClevorTosty
+- 👀 I’m interested in Learning more about coding languages and how they can be used to solve problems.
+- 🌱 I’m currently learning Python, SQL, and how to visualize data. Very experienced with Excel and some VBA.
+- 💞️ I’m looking to collaborate on anything really. Just trying to learn more, as I know the basics of the languages, but have yet to create anything meaningful.
+- 📫 How to reach me ...
